@@ -1,0 +1,17 @@
+ 
+1° - instale o mysql, usando o arquivo instalador.
+
+DADOS PARA INSTALAÇAO:
+utilize a senha : 12345
+utilize o nome de usuario : root
+utilize a porta : 3306
+
+(Como eu configurei a conexao do banco de dados usando essa forma, eu aconselho a configurar no instalador 
+com essas informacoes assim nao ha risco de incompatibilidade)
+
+2° - Abra o arquivo "comercio" do tipo text, na mesma pasta. 
+
+Com o mouse, crie as tabelas (selecione as linhas create table e clique no "botao de raio");
+Veja se o banco está funcionando .
+
+3° Com o netbeans , abra o arquivo comercio, na pasta comercio- netbeans.
